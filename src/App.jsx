@@ -41,7 +41,7 @@ export default function App() {
           <div className="hero-media" aria-hidden>
             <span className="circle large" />
             <span className="circle small" />
-            <img src="uiux.png" alt="Hero illustration" className="hero-img" />
+            <img src="/uiux.png" alt="Hero illustration" className="hero-img" />
           </div>
           
         </div>
