@@ -54,7 +54,7 @@ export default function App() {
             <p>I'm a UI/UX designer passionate about making technology feel simple and human. I design user flows, wireframes and prototypes — and ship interfaces with clean, accessible code.</p>
           </div>
           <div className="about-right" aria-hidden>
-            <img src="spardano-portfolio/persona.png" alt="Pena illustration" className="about-img" />
+            <img src="persona.png" alt="Pena illustration" className="about-img" />
           </div>
         </div>
       </section>
@@ -87,7 +87,7 @@ export default function App() {
 
       <section id="journal" className="journey container">
 
-        <img className='personafeet' src="spardano-portfolio/persona-feet.png" alt="persona-feet" />
+        <img className='personafeet' src="persona-feet.png" alt="persona-feet" />
 
         <h2>More about my journey and skills</h2>
         <p className="subtitle">I've come a long way to get to this point — here are a few milestones.</p>
@@ -170,7 +170,7 @@ export default function App() {
         <div className="project-list">
           <article className="project-card">
             <div className="project-media">
-              <img src="spardano-portfolio/vocality.jpg" alt="Vocality screens" />
+              <img src="vocality.jpg" alt="Vocality screens" />
             </div>
             <div className="project-content">
               <div className="project-header">
@@ -185,7 +185,7 @@ export default function App() {
 
           <article className="project-card">
             <div className="project-media">
-              <img src="spardano-portfolio/comano.jpg" alt="Comano" />
+              <img src="comano.jpg" alt="Comano" />
             </div>
             <div className="project-content">
               <div className="project-header">
@@ -200,7 +200,7 @@ export default function App() {
 
           <article className="project-card">
             <div className="project-media">
-              <img src="spardano-portfolio/travelgo.jpg" alt="TravelGO" />
+              <img src="travelgo.jpg" alt="TravelGO" />
             </div>
             <div className="project-content">
               <div className="project-header">
